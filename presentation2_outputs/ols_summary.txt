@@ -1,0 +1,47 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               next_pts   R-squared:                       0.778
+Model:                            OLS   Adj. R-squared:                  0.778
+Method:                 Least Squares   F-statistic:                     1570.
+Date:                Sun, 12 Apr 2026   Prob (F-statistic):               0.00
+Time:                        22:56:32   Log-Likelihood:                -23294.
+No. Observations:                9428   AIC:                         4.663e+04
+Df Residuals:                    9406   BIC:                         4.679e+04
+Df Model:                          21                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                       5.6800      1.927      2.948      0.003       1.903       9.457
+age                        -0.2512      0.008    -32.546      0.000      -0.266      -0.236
+player_height               0.0100      0.010      1.045      0.296      -0.009       0.029
+player_weight              -0.0122      0.005     -2.606      0.009      -0.021      -0.003
+gp                          0.0048      0.002      2.617      0.009       0.001       0.008
+pts                         0.7896      0.022     35.388      0.000       0.746       0.833
+reb                        -0.0824      0.040     -2.060      0.039      -0.161      -0.004
+ast                        -0.1270      0.062     -2.040      0.041      -0.249      -0.005
+net_rating                  0.0517      0.005      9.875      0.000       0.041       0.062
+oreb_pct                    0.3260      1.382      0.236      0.814      -2.383       3.035
+dreb_pct                    6.4365      1.224      5.257      0.000       4.036       8.837
+usg_pct                     3.3560      1.577      2.128      0.033       0.265       6.447
+ts_pct                     -0.7283      0.694     -1.049      0.294      -2.089       0.633
+ast_pct                     4.2622      1.074      3.967      0.000       2.156       6.368
+pts_lag1                    0.1090      0.019      5.594      0.000       0.071       0.147
+reb_lag1                   -0.0421      0.031     -1.381      0.167      -0.102       0.018
+ast_lag1                    0.0268      0.040      0.677      0.498      -0.051       0.104
+ts_pct_lag1                -0.2052      0.790     -0.260      0.795      -1.753       1.343
+usg_pct_lag1               -0.9727      1.519     -0.640      0.522      -3.951       2.005
+net_rating_lag1             0.0358      0.006      6.065      0.000       0.024       0.047
+pos_proxy_Guard (proxy)     0.0023      0.197      0.012      0.991      -0.385       0.389
+pos_proxy_Wing (proxy)      0.2014      0.111      1.806      0.071      -0.017       0.420
+==============================================================================
+Omnibus:                      113.327   Durbin-Watson:                   2.112
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              144.172
+Skew:                           0.185   Prob(JB):                     4.94e-32
+Kurtosis:                       3.480   Cond. No.                     1.58e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.58e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
