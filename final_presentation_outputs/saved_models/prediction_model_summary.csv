@@ -1,0 +1,5 @@
+Target,Chosen_Model,CV_RMSE
+next_ast,Gradient Boosting,0.7927115235238074
+next_pts,Gradient Boosting,2.825362400624101
+next_reb,Gradient Boosting,1.206459199125244
+next_ts_pct,Ridge Regression,0.051992356706212994

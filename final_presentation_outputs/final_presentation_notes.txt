@@ -1,0 +1,30 @@
+FINAL PRESENTATION TALKING POINTS
+========================================
+
+Best overall model for next_pts: Gradient Boosting
+Best linear model: LASSO Regression
+Best advanced model: Gradient Boosting
+
+Model-comparison interpretation
+- Best advanced model CV RMSE improvement over plain linear regression: 0.127
+- Best advanced model CV R^2 improvement over plain linear regression: 0.020
+- Best advanced model overfit gap (RMSE): 0.199
+
+How to explain performance gains
+- Advanced models improve prediction modestly. The gain is real, but interpretability tradeoffs should be discussed.
+
+Explainability reminders
+- Use linear coefficients to explain direction and rough relative importance.
+- Use permutation importance to show which features matter most for the best advanced model.
+- Use partial dependence plots to show how predicted next-season scoring changes as one feature varies.
+
+Ethics and limitations
+- The model does not observe injuries, locker-room context, coaching changes, or role changes.
+- Survivorship bias means older players in the dataset are often the better ones who stayed in the league.
+- These models should support decisions, not replace human judgment in contracts or roster moves.
+
+Saved prediction models
+- next_ast: Gradient Boosting (CV RMSE 0.793)
+- next_pts: Gradient Boosting (CV RMSE 2.825)
+- next_reb: Gradient Boosting (CV RMSE 1.206)
+- next_ts_pct: Ridge Regression (CV RMSE 0.052)

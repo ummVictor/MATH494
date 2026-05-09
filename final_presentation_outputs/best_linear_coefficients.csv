@@ -1,0 +1,537 @@
+Feature,Coefficient,Abs_Coefficient
+num__pts,4.384061637949367,4.384061637949367
+num__age,-1.0416056907209295,1.0416056907209295
+num__pts_lag1,0.5272508599920739,0.5272508599920739
+num__net_rating,0.34078622265189096,0.34078622265189096
+cat__season_1998-99,0.29924741794474363,0.29924741794474363
+num__usg_pct,0.2766189296621998,0.2766189296621998
+cat__team_abbreviation_NYK,-0.26137859927774754,0.26137859927774754
+cat__draft_round_1,0.22251742895164853,0.22251742895164853
+num__dreb_pct,0.21060366229801697,0.21060366229801697
+num__net_rating_lag1,0.18699732439682498,0.18699732439682498
+cat__pos_proxy_Wing (proxy),0.1708938691999876,0.1708938691999876
+cat__draft_number_3,0.163951584041882,0.163951584041882
+num__ast_pct,0.16331559655303773,0.16331559655303773
+cat__season_2008-09,-0.1514358449164905,0.1514358449164905
+cat__season_2003-04,0.10761156370355299,0.10761156370355299
+cat__team_abbreviation_POR,0.10675333221278802,0.10675333221278802
+cat__season_1997-98,-0.10347649427315825,0.10347649427315825
+cat__draft_round_Undrafted,-0.08123192591522745,0.08123192591522745
+num__player_weight,-0.08062235081094034,0.08062235081094034
+num__gp,0.08009800618283876,0.08009800618283876
+cat__season_2018-19,0.06704646832113721,0.06704646832113721
+num__reb,-0.06049148994841087,0.06049148994841087
+num__ast_lag1,0.0328967988693911,0.0328967988693911
+num__oreb_pct,-0.03104872060153657,0.03104872060153657
+num__reb_lag1,-0.018267221012263586,0.018267221012263586
+cat__team_abbreviation_SAS,0.011671818793876874,0.011671818793876874
+cat__draft_year_1980,0.0,0.0
+cat__draft_year_1987,0.0,0.0
+cat__country_Scotland,-0.0,0.0
+cat__country_Saint Lucia,-0.0,0.0
+cat__country_Russia,-0.0,0.0
+cat__country_Puerto Rico,0.0,0.0
+cat__draft_year_1988,-0.0,0.0
+cat__country_Poland,0.0,0.0
+cat__country_Panama,0.0,0.0
+cat__country_Nigeria,-0.0,0.0
+cat__country_New Zealand,0.0,0.0
+cat__country_Netherlands,0.0,0.0
+cat__country_Montenegro,0.0,0.0
+cat__country_Mexico,-0.0,0.0
+cat__country_Mali,-0.0,0.0
+cat__country_Macedonia,-0.0,0.0
+cat__country_Lithuania,0.0,0.0
+cat__country_Latvia,-0.0,0.0
+cat__country_Japan,-0.0,0.0
+cat__country_Jamaica,0.0,0.0
+cat__country_Italy,0.0,0.0
+cat__country_Israel,0.0,0.0
+cat__country_Ireland,-0.0,0.0
+cat__country_Iran,-0.0,0.0
+cat__country_Haiti,-0.0,0.0
+cat__country_Guinea,-0.0,0.0
+cat__country_Greece,-0.0,0.0
+cat__country_Great Britain,-0.0,0.0
+cat__country_Germany,0.0,0.0
+cat__country_Senegal,-0.0,0.0
+cat__country_Serbia,-0.0,0.0
+cat__draft_year_1979,0.0,0.0
+cat__country_Serbia and Montenegro,0.0,0.0
+cat__country_Yugoslavia,0.0,0.0
+cat__country_Venezuela,0.0,0.0
+cat__country_Uruguay,-0.0,0.0
+cat__draft_year_1981,0.0,0.0
+cat__country_United Kingdom,0.0,0.0
+cat__country_Ukraine,-0.0,0.0
+cat__country_USSR,-0.0,0.0
+cat__country_USA,-0.0,0.0
+cat__draft_year_1982,-0.0,0.0
+cat__country_US Virgin Islands,0.0,0.0
+cat__country_U.S. Virgin Islands,0.0,0.0
+cat__country_Turkey,0.0,0.0
+cat__country_Tunisia,-0.0,0.0
+cat__draft_year_1983,0.0,0.0
+cat__draft_year_1984,0.0,0.0
+cat__draft_year_1985,0.0,0.0
+cat__country_Tanzania,-0.0,0.0
+cat__country_Switzerland,0.0,0.0
+cat__country_Sweden,-0.0,0.0
+cat__draft_year_1986,0.0,0.0
+cat__country_Sudan,0.0,0.0
+cat__country_Georgia,-0.0,0.0
+cat__country_St. Vincent & Grenadines,0.0,0.0
+cat__country_Spain,-0.0,0.0
+cat__country_South Sudan,-0.0,0.0
+cat__country_South Korea,-0.0,0.0
+cat__country_Slovenia,0.0,0.0
+num__ts_pct,0.0,0.0
+cat__country_Dominican Republic,0.0,0.0
+cat__country_Gabon,-0.0,0.0
+cat__college_Virginia Military Institute,-0.0,0.0
+cat__college_Wichita State,-0.0,0.0
+cat__college_Wheeling Jesuit,0.0,0.0
+cat__college_Western Michigan,0.0,0.0
+cat__college_Western Kentucky,-0.0,0.0
+cat__college_Western Carolina,0.0,0.0
+cat__college_West Virginia,-0.0,0.0
+cat__college_West Florida,-0.0,0.0
+cat__college_Weber State,0.0,0.0
+cat__college_Washington State,0.0,0.0
+cat__college_Washington,0.0,0.0
+cat__college_Wake Forest,0.0,0.0
+cat__college_Virginia Union,0.0,0.0
+cat__college_Virginia Tech,0.0,0.0
+cat__college_Virginia Commonwealth,-0.0,0.0
+cat__college_Wingate,-0.0,0.0
+cat__college_Virginia,-0.0,0.0
+cat__college_Villanova,0.0,0.0
+cat__college_Vermont,0.0,0.0
+cat__college_Venezuela,-0.0,0.0
+cat__college_Vanderbilt,-0.0,0.0
+cat__college_Valparaiso,-0.0,0.0
+cat__college_Va Commonwealth,-0.0,0.0
+cat__college_Utah Valley,-0.0,0.0
+cat__college_Utah,-0.0,0.0
+cat__college_University of Texas at Austin,-0.0,0.0
+"cat__college_University of California, Berkeley",-0.0,0.0
+cat__college_USC,0.0,0.0
+cat__college_UNLV,0.0,0.0
+cat__college_William & Mary,-0.0,0.0
+cat__college_Wisconsin,0.0,0.0
+cat__country_France,-0.0,0.0
+cat__country_Bosnia and Herzegovina,-0.0,0.0
+cat__country_Finland,0.0,0.0
+cat__country_England,0.0,0.0
+cat__country_Egypt,-0.0,0.0
+cat__draft_year_1990,0.0,0.0
+cat__country_Democratic Republic of the Congo,-0.0,0.0
+cat__country_DRC,-0.0,0.0
+cat__country_Czech Republic,0.0,0.0
+cat__country_Croatia,-0.0,0.0
+cat__country_Congo,0.0,0.0
+cat__country_China,-0.0,0.0
+cat__country_Canada,0.0,0.0
+cat__country_Cameroon,0.0,0.0
+cat__country_Brazil,-0.0,0.0
+cat__country_Bosnia & Herzegovina,0.0,0.0
+cat__college_Wisconsin-Green Bay,0.0,0.0
+cat__country_Bosnia,0.0,0.0
+cat__country_Belize,-0.0,0.0
+cat__country_Bahamas,0.0,0.0
+cat__country_Austria,0.0,0.0
+cat__country_Australia,0.0,0.0
+cat__country_Argentina,0.0,0.0
+cat__country_Angola,-0.0,0.0
+cat__college_Yonsei (KOR),-0.0,0.0
+cat__college_Yale,-0.0,0.0
+cat__college_Xavier,0.0,0.0
+cat__college_Wyoming,0.0,0.0
+cat__college_Wright State,-0.0,0.0
+cat__college_Wisconsin-Stevens Point,0.0,0.0
+cat__draft_year_1989,-0.0,0.0
+cat__draft_year_1997,-0.0,0.0
+cat__draft_year_1991,-0.0,0.0
+cat__draft_number_46,0.0,0.0
+cat__draft_number_58,-0.0,0.0
+cat__draft_number_57,0.0,0.0
+cat__draft_number_56,-0.0,0.0
+cat__draft_number_55,0.0,0.0
+cat__draft_number_54,0.0,0.0
+cat__draft_number_53,-0.0,0.0
+cat__draft_number_52,0.0,0.0
+cat__draft_number_51,0.0,0.0
+cat__draft_number_50,-0.0,0.0
+cat__draft_number_5,0.0,0.0
+cat__draft_number_49,-0.0,0.0
+cat__draft_number_48,-0.0,0.0
+cat__draft_number_47,-0.0,0.0
+cat__draft_number_45,0.0,0.0
+cat__draft_number_31,0.0,0.0
+cat__draft_number_44,-0.0,0.0
+cat__draft_number_43,0.0,0.0
+cat__draft_number_42,0.0,0.0
+cat__draft_number_41,0.0,0.0
+cat__draft_number_40,0.0,0.0
+cat__draft_number_4,0.0,0.0
+cat__draft_number_39,-0.0,0.0
+cat__draft_number_38,-0.0,0.0
+cat__draft_number_37,-0.0,0.0
+cat__draft_number_36,-0.0,0.0
+cat__draft_number_35,0.0,0.0
+cat__draft_number_34,-0.0,0.0
+cat__draft_number_33,0.0,0.0
+cat__draft_number_6,-0.0,0.0
+cat__draft_number_60,-0.0,0.0
+cat__draft_number_7,0.0,0.0
+cat__draft_number_75,0.0,0.0
+cat__pos_proxy_Guard (proxy),-0.0,0.0
+cat__pos_proxy_Big (proxy),-0.0,0.0
+cat__season_2021-22,0.0,0.0
+cat__season_2020-21,-0.0,0.0
+cat__season_2019-20,0.0,0.0
+cat__season_2017-18,0.0,0.0
+cat__season_2016-17,0.0,0.0
+cat__season_2015-16,0.0,0.0
+cat__season_2014-15,-0.0,0.0
+cat__season_2013-14,-0.0,0.0
+cat__season_2012-13,0.0,0.0
+cat__season_2011-12,-0.0,0.0
+cat__season_2010-11,-0.0,0.0
+cat__season_2009-10,-0.0,0.0
+cat__season_2007-08,-0.0,0.0
+cat__season_2006-07,-0.0,0.0
+cat__season_2005-06,-0.0,0.0
+cat__season_2004-05,-0.0,0.0
+cat__season_2002-03,0.0,0.0
+cat__season_2001-02,-0.0,0.0
+cat__season_2000-01,0.0,0.0
+cat__season_1999-00,0.0,0.0
+cat__season_1996-97,-0.0,0.0
+cat__draft_number_Undrafted,-0.0,0.0
+cat__draft_number_9,0.0,0.0
+cat__draft_number_8,-0.0,0.0
+cat__draft_number_79,-0.0,0.0
+cat__draft_number_32,-0.0,0.0
+cat__draft_number_30,0.0,0.0
+cat__draft_year_1992,-0.0,0.0
+cat__draft_year_2007,-0.0,0.0
+cat__draft_year_2020,0.0,0.0
+cat__draft_year_2019,-0.0,0.0
+cat__draft_year_2018,0.0,0.0
+cat__draft_year_2017,0.0,0.0
+cat__draft_year_2016,0.0,0.0
+cat__draft_year_2015,0.0,0.0
+cat__draft_year_2014,0.0,0.0
+cat__draft_year_2013,-0.0,0.0
+cat__draft_year_2012,0.0,0.0
+cat__draft_year_2011,0.0,0.0
+cat__draft_year_2010,0.0,0.0
+cat__draft_year_2009,-0.0,0.0
+cat__draft_year_2008,-0.0,0.0
+cat__draft_year_2006,-0.0,0.0
+cat__draft_number_29,-0.0,0.0
+cat__draft_year_2005,-0.0,0.0
+cat__draft_year_2004,-0.0,0.0
+cat__draft_year_2003,0.0,0.0
+cat__draft_year_2002,0.0,0.0
+cat__draft_year_2001,-0.0,0.0
+cat__draft_year_2000,-0.0,0.0
+cat__draft_year_1999,-0.0,0.0
+cat__draft_year_1998,0.0,0.0
+cat__college_Tulsa,-0.0,0.0
+cat__draft_year_1996,0.0,0.0
+cat__draft_year_1995,-0.0,0.0
+cat__draft_year_1994,0.0,0.0
+cat__draft_year_1993,-0.0,0.0
+cat__draft_year_2021,-0.0,0.0
+cat__draft_year_Undrafted,-0.0,0.0
+cat__draft_round_0,0.0,0.0
+cat__draft_round_2,-0.0,0.0
+cat__draft_number_28,-0.0,0.0
+cat__draft_number_27,0.0,0.0
+cat__draft_number_26,0.0,0.0
+cat__draft_number_25,-0.0,0.0
+cat__draft_number_24,0.0,0.0
+cat__draft_number_23,-0.0,0.0
+cat__draft_number_22,-0.0,0.0
+cat__draft_number_21,-0.0,0.0
+cat__draft_number_20,-0.0,0.0
+cat__draft_number_2,-0.0,0.0
+cat__draft_number_19,-0.0,0.0
+cat__draft_number_18,0.0,0.0
+cat__draft_number_17,-0.0,0.0
+cat__draft_number_165,0.0,0.0
+cat__draft_number_160,0.0,0.0
+cat__draft_number_16,0.0,0.0
+cat__draft_number_15,0.0,0.0
+cat__draft_number_14,-0.0,0.0
+cat__draft_number_13,-0.0,0.0
+cat__draft_number_12,-0.0,0.0
+cat__draft_number_11,0.0,0.0
+cat__draft_number_10,0.0,0.0
+cat__draft_number_1,0.0,0.0
+cat__draft_round_8,0.0,0.0
+cat__draft_round_7,0.0,0.0
+cat__draft_round_4,0.0,0.0
+cat__draft_round_3,0.0,0.0
+cat__college_UCLA,0.0,0.0
+cat__college_Towson,0.0,0.0
+cat__college_Tulane,-0.0,0.0
+cat__college_California,-0.0,0.0
+cat__college_Eastern Michigan,0.0,0.0
+cat__college_East Carolina,-0.0,0.0
+cat__college_Duquesne,0.0,0.0
+cat__college_Duke,0.0,0.0
+cat__college_Drexel,-0.0,0.0
+cat__college_Detroit Mercy,-0.0,0.0
+cat__college_Delta State,0.0,0.0
+cat__college_Delaware State,-0.0,0.0
+cat__college_DePaul,-0.0,0.0
+cat__college_Dayton,-0.0,0.0
+cat__college_Davidson,0.0,0.0
+cat__college_Creighton,0.0,0.0
+cat__college_Connecticut,0.0,0.0
+cat__college_Colorado State,0.0,0.0
+cat__college_Colorado,0.0,0.0
+cat__college_College of Charleston,-0.0,0.0
+cat__college_Colgate,0.0,0.0
+cat__college_Cleveland State,-0.0,0.0
+cat__college_Clemson,-0.0,0.0
+cat__college_Cincinnati,-0.0,0.0
+cat__college_Central State (OH),-0.0,0.0
+cat__college_Central Oklahoma,0.0,0.0
+cat__college_Central Michigan,0.0,0.0
+cat__college_Central Florida,-0.0,0.0
+cat__college_Central Connecticut State,-0.0,0.0
+cat__college_Central Arkansas,-0.0,0.0
+cat__college_California-Santa Barbara,0.0,0.0
+cat__college_California-Irvine,0.0,0.0
+cat__college_California-Berkeley,-0.0,0.0
+cat__college_Eastern Washington,-0.0,0.0
+cat__college_Fayetteville State,0.0,0.0
+cat__college_Florida,0.0,0.0
+cat__college_Harvard,0.0,0.0
+cat__college_Jacksonville,-0.0,0.0
+cat__college_Jackson State,-0.0,0.0
+cat__college_Iowa State,-0.0,0.0
+cat__college_Iowa,-0.0,0.0
+cat__college_Indiana-Purdue Indianapolis,0.0,0.0
+cat__college_Indiana-Purdue Fort Wayne,-0.0,0.0
+cat__college_Indiana Purdue-Indianapolis,0.0,0.0
+cat__college_Indiana,-0.0,0.0
+cat__college_Illinois,-0.0,0.0
+cat__college_Houston,-0.0,0.0
+cat__college_Holy Cross,-0.0,0.0
+cat__college_Hofstra,-0.0,0.0
+cat__college_Hawaii,0.0,0.0
+cat__college_Hartford,-0.0,0.0
+cat__college_Florida A&M,-0.0,0.0
+cat__college_Hampton,0.0,0.0
+cat__college_Gonzaga,0.0,0.0
+cat__college_Georgia Tech,-0.0,0.0
+cat__college_Georgia Southern,0.0,0.0
+cat__college_Georgia Institute of Technology,-0.0,0.0
+cat__college_Georgia,-0.0,0.0
+cat__college_Georgetown,0.0,0.0
+cat__college_George Washington,-0.0,0.0
+cat__college_Fresno State,0.0,0.0
+cat__college_Fordham,0.0,0.0
+cat__college_Florida State,0.0,0.0
+cat__college_Florida International,0.0,0.0
+cat__college_Florida Gulf Coast,-0.0,0.0
+cat__college_California State-Long Beach,0.0,0.0
+cat__college_Cal State-Long Beach,0.0,0.0
+cat__college_Truman State,-0.0,0.0
+cat__college_Cal State-Fullerton,0.0,0.0
+cat__team_abbreviation_PHI,-0.0,0.0
+cat__team_abbreviation_ORL,-0.0,0.0
+cat__team_abbreviation_OKC,0.0,0.0
+cat__team_abbreviation_NOP,-0.0,0.0
+cat__team_abbreviation_NOK,-0.0,0.0
+cat__team_abbreviation_NOH,-0.0,0.0
+cat__team_abbreviation_NJN,-0.0,0.0
+cat__team_abbreviation_MIN,-0.0,0.0
+cat__team_abbreviation_MIL,-0.0,0.0
+cat__team_abbreviation_MIA,0.0,0.0
+cat__team_abbreviation_MEM,-0.0,0.0
+cat__team_abbreviation_LAL,0.0,0.0
+cat__team_abbreviation_LAC,0.0,0.0
+cat__team_abbreviation_IND,0.0,0.0
+cat__team_abbreviation_HOU,0.0,0.0
+cat__team_abbreviation_GSW,0.0,0.0
+cat__team_abbreviation_DET,0.0,0.0
+cat__team_abbreviation_DEN,-0.0,0.0
+cat__team_abbreviation_DAL,0.0,0.0
+cat__team_abbreviation_CLE,-0.0,0.0
+cat__team_abbreviation_CHI,-0.0,0.0
+cat__team_abbreviation_CHH,0.0,0.0
+cat__team_abbreviation_CHA,-0.0,0.0
+cat__team_abbreviation_BOS,0.0,0.0
+cat__team_abbreviation_BKN,-0.0,0.0
+cat__team_abbreviation_ATL,-0.0,0.0
+num__ast,-0.0,0.0
+num__usg_pct_lag1,0.0,0.0
+num__ts_pct_lag1,0.0,0.0
+cat__team_abbreviation_PHX,-0.0,0.0
+cat__team_abbreviation_SAC,0.0,0.0
+cat__team_abbreviation_SEA,-0.0,0.0
+cat__college_Austin Peay,-0.0,0.0
+cat__college_Cal Poly,0.0,0.0
+cat__college_Butler Community College,0.0,0.0
+cat__college_Butler,0.0,0.0
+cat__college_Bucknell,0.0,0.0
+cat__college_Brigham Young,-0.0,0.0
+cat__college_Bradley,-0.0,0.0
+cat__college_Bowling Green,-0.0,0.0
+cat__college_Boston College,-0.0,0.0
+cat__college_Boise State,-0.0,0.0
+cat__college_Blinn,0.0,0.0
+cat__college_Belmont,-0.0,0.0
+cat__college_Baylor,-0.0,0.0
+cat__college_Ball State,-0.0,0.0
+cat__college_Augsburg,-0.0,0.0
+cat__team_abbreviation_TOR,0.0,0.0
+cat__college_Auburn,-0.0,0.0
+cat__college_Arkansas-Little Rock,0.0,0.0
+cat__college_Arkansas,0.0,0.0
+cat__college_Arizona State,0.0,0.0
+cat__college_Arizona,-0.0,0.0
+cat__college_American International,0.0,0.0
+cat__college_Albany State (GA),0.0,0.0
+cat__college_Alabama-Birmingham,-0.0,0.0
+cat__college_Alabama,-0.0,0.0
+cat__college_ ,-0.0,0.0
+cat__team_abbreviation_WAS,0.0,0.0
+cat__team_abbreviation_VAN,0.0,0.0
+cat__team_abbreviation_UTA,0.0,0.0
+cat__college_Kansas,-0.0,0.0
+cat__college_Kansas State,-0.0,0.0
+cat__college_Kent State,0.0,0.0
+cat__college_Kentucky,0.0,0.0
+cat__college_South Florida,-0.0,0.0
+cat__college_South Dakota State,-0.0,0.0
+cat__college_South Carolina Upstate,0.0,0.0
+cat__college_South Carolina,-0.0,0.0
+cat__college_Shaw,0.0,0.0
+cat__college_Seton Hall,-0.0,0.0
+cat__college_Santa Clara,0.0,0.0
+cat__college_San Jose State,-0.0,0.0
+cat__college_San Diego State,0.0,0.0
+cat__college_Saint Vincent,-0.0,0.0
+cat__college_Saint Mary's (CA),-0.0,0.0
+cat__college_Saint Louis,-0.0,0.0
+cat__college_Saint Joseph's,-0.0,0.0
+cat__college_S.E. Missouri,-0.0,0.0
+cat__college_Rutgers,-0.0,0.0
+cat__college_Robert Morris (IL),0.0,0.0
+cat__college_Rider,-0.0,0.0
+cat__college_Richmond,0.0,0.0
+cat__college_Rice,-0.0,0.0
+cat__college_Rhode Island,0.0,0.0
+cat__college_Radford,-0.0,0.0
+cat__college_Purdue,0.0,0.0
+cat__college_Providence,-0.0,0.0
+cat__college_Portland State,-0.0,0.0
+cat__college_Pittsburgh,-0.0,0.0
+cat__college_Pfeiffer,-0.0,0.0
+cat__college_Pepperdine,-0.0,0.0
+cat__college_Pennsylvania,-0.0,0.0
+cat__college_Penn State,-0.0,0.0
+cat__college_Southeastern Illinois,-0.0,0.0
+cat__college_Southeastern Oklahoma State,0.0,0.0
+cat__college_Southern,0.0,0.0
+cat__college_Temple,-0.0,0.0
+cat__college_Trinity Valley Community College,0.0,0.0
+cat__college_Texas-San Antonio,-0.0,0.0
+cat__college_Texas-El Paso,-0.0,0.0
+cat__college_Texas-Austin,0.0,0.0
+cat__college_Texas Tech,-0.0,0.0
+num__player_height,0.0,0.0
+cat__college_Texas Christian,0.0,0.0
+cat__college_Texas A&M,0.0,0.0
+cat__college_Texas,0.0,0.0
+cat__college_Tennessee-Martin,0.0,0.0
+cat__college_Tennessee-Chattanooga,-0.0,0.0
+cat__college_Tennessee State,-0.0,0.0
+cat__college_Tennessee,-0.0,0.0
+cat__college_TCU,0.0,0.0
+cat__college_Southern California,0.0,0.0
+cat__college_Syracuse,-0.0,0.0
+cat__college_Stetson,-0.0,0.0
+cat__college_Stanford,-0.0,0.0
+cat__college_St.Mary's College of California,-0.0,0.0
+cat__college_St. Mary's (CA),0.0,0.0
+cat__college_St. Joseph's (PA),-0.0,0.0
+"cat__college_St. John's, N.Y.",-0.0,0.0
+cat__college_St. John's (NY),-0.0,0.0
+cat__college_St. John's,-0.0,0.0
+cat__college_St. Bonaventure,-0.0,0.0
+cat__college_Southern Mississippi,-0.0,0.0
+cat__college_Southern Methodist,-0.0,0.0
+cat__college_Southern Illinois,-0.0,0.0
+cat__college_Pacific,-0.0,0.0
+cat__college_Oregon State,0.0,0.0
+cat__college_Oregon,-0.0,0.0
+cat__college_Marquette,0.0,0.0
+cat__college_Minnesota,-0.0,0.0
+cat__college_Michigan State,0.0,0.0
+cat__college_Michigan,0.0,0.0
+cat__college_Miami (OH),0.0,0.0
+cat__college_Miami (FL),0.0,0.0
+cat__college_Miami,0.0,0.0
+cat__college_Meridian Community College,-0.0,0.0
+cat__college_Mercer,0.0,0.0
+cat__college_Memphis,-0.0,0.0
+cat__college_McNeese State,0.0,0.0
+cat__college_Massachusetts,-0.0,0.0
+cat__college_Maryland,-0.0,0.0
+cat__college_Marshall,0.0,0.0
+cat__college_Marist,0.0,0.0
+cat__college_Mississippi State,-0.0,0.0
+cat__college_Loyola-Maryland,0.0,0.0
+cat__college_Louisville,0.0,0.0
+cat__college_Louisiana-Lafayette,-0.0,0.0
+cat__college_Louisiana Tech,0.0,0.0
+cat__college_Louisiana State,-0.0,0.0
+cat__college_Louisana-Lafayette,-0.0,0.0
+cat__college_Longwood,0.0,0.0
+cat__college_Long Beach State,0.0,0.0
+cat__college_Lipscomb,-0.0,0.0
+cat__college_Lehigh,0.0,0.0
+cat__college_Le Moyne,-0.0,0.0
+cat__college_Lamar,-0.0,0.0
+cat__college_La Salle,0.0,0.0
+cat__college_Mississippi,-0.0,0.0
+cat__college_Missouri,0.0,0.0
+cat__college_Oral Roberts,-0.0,0.0
+cat__college_North Carolina,-0.0,0.0
+cat__college_Old Dominion,-0.0,0.0
+cat__college_Oklahoma State,-0.0,0.0
+cat__college_Oklahoma,-0.0,0.0
+cat__college_Ohio State,-0.0,0.0
+cat__college_Ohio,-0.0,0.0
+cat__college_Oakland,0.0,0.0
+cat__college_Notre Dame,0.0,0.0
+cat__college_Northwestern,-0.0,0.0
+cat__college_Northwest Florida State,-0.0,0.0
+cat__college_Northeastern,0.0,0.0
+cat__college_Northeast Mississippi Community College,0.0,0.0
+cat__college_North Carolina-Charlotte,-0.0,0.0
+cat__college_North Carolina State,-0.0,0.0
+cat__college_Norfolk State,-0.0,0.0
+cat__college_Missouri State,-0.0,0.0
+cat__college_Nicholls State,0.0,0.0
+cat__college_New Orleans,0.0,0.0
+cat__college_New Mexico State,0.0,0.0
+cat__college_New Mexico,-0.0,0.0
+cat__college_Nevada-Reno,0.0,0.0
+cat__college_Nevada-Las Vegas,0.0,0.0
+cat__college_Nevada,-0.0,0.0
+cat__college_Nebraska-Lincoln,-0.0,0.0
+cat__college_Nebraska,0.0,0.0
+cat__college_Navy,-0.0,0.0
+cat__college_Murray State,-0.0,0.0
+cat__college_Morehead State,-0.0,0.0
+cat__college_Montana State,0.0,0.0
+cat__college_Texas State,-0.0,0.0
